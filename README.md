@@ -1,4 +1,4 @@
-# Data-Structres-and-Algorithms
+# Data-Structures-and-Algorithms
 My implementation of data structures and algorithms (Work in progress)
 
 ## Rationale 
